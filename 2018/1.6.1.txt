@@ -1,0 +1,26 @@
+https://feedback.minecraft.net/hc/en-us/articles/360015779511-Minecraft-1-6-1-Bedrock-
+
+Minecraft - 1.6.1 (Bedrock)
+Bedrock Dedicated Server Alpha Test: 
+
+We are releasing an early access alpha of the dedicated server for Minecraft. Download the server binaries at aka.ms/MinecraftBDS for either Windows or Linux and go host your own servers and play with your friends.
+
+Make sure to report any issues to bugs.mojang.com/projects/BDS and please give us feedback on feedback.minecraft.net or our official Discord at discord.gg/Minecraft and chat in the #dedicated-server channel.
+
+
+Changes:
+
+Added a button to clear login credentials if a Microsoft Account sign-in fails on Nintendo Switch
+
+Fixes:
+
+Phantoms now definitely swoop down and attack people so watch out! (MCPE-36673)
+Fixed blocks often disappearing after being placed or reappearing after being destroyed (MCPE-31596)
+Increased performance on iOS devices
+Several fixes to reduce lag in multiplayer games and Realms
+
+Add-Ons:
+
+Updated templates for 1.6.1 with new assets and behaviors can be downloaded from minecraft.net/addons, including fixes to the Phantom's swooping behavior
+
+If you missed a previous update, check out aka.ms/MCChangelogs for a full list of updates.
