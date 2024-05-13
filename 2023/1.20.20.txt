@@ -1,0 +1,38 @@
+It was skipped.. here is some inmfo tho
+
+kayla — 08/28/2023 4:48 PM
+For those that this is helpful to - here is the status of Item Components shipping out from the Holiday Creator Features experimental toggle:
+
+Shipped:
+durability
+display_name
+fuel
+entity_placer
+icon
+cooldown
+block_placer
+projectile
+record
+repairable
+shooter
+throwable
+can_destroy_in_creative
+hover_text_color
+max_stack_size
+
+Planned:
+wearable (expected in 1.20.30)
+chargeable (moving to use_duration) (expected in 1.20.40)
+digger (expected in 1.20.30)
+food (expected in 1.20.30)
+damage (expected in 1.20.30)
+use_duration (expected in 1.20.30)
+creative_category (moved to description and renamed to menu_category) (expected in 1.20.30)
+stacked_by_data (expected in 1.20.30)
+glint (previously foil) (expected in 1.20.30)
+hand_equipped (expected in 1.20.30)
+allow_off_hand (expected in 1.20.30)
+enchantable (expected in 1.20.30)
+liquid_clipped (expected in 1.20.30)
+use_animation (expected in 1.20.30)
+should_despawn (expected in 1.20.30)
