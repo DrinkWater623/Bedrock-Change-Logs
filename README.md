@@ -6,3 +6,5 @@
 I mainly included all logs with New or Changed features.  You are welcome to do a PR to add the fixes in between.
 
 Suggested Use: Clone Repo and use
+
+All can be found @ https://feedback.minecraft.net/hc/en-us/sections/360001186971-Release-Changelogs
